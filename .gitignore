@@ -10,3 +10,7 @@ Thumbs.db
 **/.xvpics/
 .DS_Store
 
+*.gif
+ArtOfIllusion/build/artsofillusion/*
+ArtOfIllusion/build/artofillusion/
+ArtOfIllusion/build/
